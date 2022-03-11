@@ -16,7 +16,7 @@ Jinja2==2.10
 lxml==4.3.0
 MarkupSafe==1.1.0
 oauth2==1.9.0.post1
-Pillow==5.4.1
+Pillow==9.0.1
 psycopg2==2.7.6.1
 psycopg2-binary==2.7.6.1
 PyPDF2==1.26.0
