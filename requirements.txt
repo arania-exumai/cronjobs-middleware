@@ -19,7 +19,7 @@ oauth2==1.9.0.post1
 Pillow==5.4.1
 psycopg2==2.7.6.1
 psycopg2-binary==2.7.6.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-pptx==0.6.5
 pytz==2018.7
 redis==3.0.1
